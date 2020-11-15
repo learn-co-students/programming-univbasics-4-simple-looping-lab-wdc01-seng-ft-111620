@@ -16,7 +16,8 @@ def output_array(array)
   end
 end 
 
-#refined this code statement below 
+#refined the code statement below, made it 2 lines shorter
+ 
  # def return_string_array(array)
   # counter = 0 
   # new_array = []
